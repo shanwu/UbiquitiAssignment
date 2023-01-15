@@ -28,3 +28,6 @@ Build #AI-213.7172.25.2113.9123335, built on September 30, 2022
 [<img src="https://user-images.githubusercontent.com/5952279/212559417-98653d26-c02e-4339-85f6-fa57bca7e3f2.png" width="250"/>]()
 [<img src="https://user-images.githubusercontent.com/5952279/212559458-6698f74b-12f1-4eea-9c45-0a5f0eac0b95.png" width="250"/>]()
 
+### TODOs
+- [ ] 數據加載中頁目
+- [ ] 本地數據儲存
