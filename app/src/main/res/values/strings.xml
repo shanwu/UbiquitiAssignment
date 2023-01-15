@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ubiquiti Assignment</string>
+    <string name="title">"空氣汗染"</string>
+    <string name="input_hint">"請輸入「站名」"</string>
+    <string name="not_found_msg">"找不到「%1$s」\n相關的空污資訊"</string>
+    <string name="input_guide_msg">"輸入「站名」\n查詢該地區空污資訊"</string>
+    <string name="msg_status_good">"The status is good, we want to go out to have fun"</string>
+    <string name="status_good">"良好"</string>
+</resources>
