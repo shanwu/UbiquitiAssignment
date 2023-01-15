@@ -20,7 +20,7 @@ Build #AI-213.7172.25.2113.9123335, built on September 30, 2022
   - [搜索頁相關代碼](https://github.com/shanwu/UbiquitiAssignment/tree/main/app/src/main/java/com/shanwu/ubiquiti_assignment/site_search)。
 - 使用 Hilt 實現依賴注入。
 - 頁面跳轉使用 Navigation Component, 相關代碼請參考[AirNavGraph](https://github.com/shanwu/UbiquitiAssignment/blob/main/app/src/main/java/com/shanwu/ubiquiti_assignment/AirNavGraph.kt)
-- 如需改變 PM2.5的閥值，請在 [AirQualityViewModel](https://github.com/shanwu/UbiquitiAssignment/tree/main/app/src/main/java/com/shanwu/ubiquiti_assignment/network)檔安中對　`PM_LEVEL_THRESHOLD_VALUE`常量做相關修改。
+- 如需改變 PM2.5的閥值，請在 [AirQualityViewModel](https://github.com/shanwu/UbiquitiAssignment/tree/main/app/src/main/java/com/shanwu/ubiquiti_assignment/network)檔案中對　`PM_LEVEL_THRESHOLD_VALUE`常量做相關修改。
 
 ### 項目完成頁面
 [<img src="https://user-images.githubusercontent.com/5952279/212558996-a5380028-63aa-4dff-9f32-f48091d17be8.png" width="250"/>]()
