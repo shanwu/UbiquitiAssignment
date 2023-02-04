@@ -1,3 +1,12 @@
+## [Ubiquiti Take-Home assignment](https://github.com/shanwu/UbiquitiAssignment/blob/main/UI%20Assignment-Android%20developer(V2.0).pdf)
+
+### Feedback from the interviewer
+
+"We appreciate the time and effort you have taken in applying and `we notice that you used new technical skills in the assignment, but we won't use them like that in our application development.` After careful consideration, we regret to inform you that we will not be moving forward with your candidacy for this position."
+
+這是幾天後收到拒信的內容，沒有明確的指出使用錯誤或是誤用，問了 HR 一樣不回 Orz ~，我真心建議要是面試官沒有能力給候選人的「作業」明確的標凖和反饋的話，那不如不要讓候選人寫什麼作業。~
+
+
 ### Android Studio 版本
 Android Studio Dolphin | 2021.3.1 Patch 1
 Build #AI-213.7172.25.2113.9123335, built on September 30, 2022
@@ -29,5 +38,6 @@ Build #AI-213.7172.25.2113.9123335, built on September 30, 2022
 [<img src="https://user-images.githubusercontent.com/5952279/212559458-6698f74b-12f1-4eea-9c45-0a5f0eac0b95.png" width="250"/>]()
 
 ### TODOs
-- [ ] 數據加載中頁目
+- [ ] 數據加載中頁面
 - [ ] 本地數據儲存
+
